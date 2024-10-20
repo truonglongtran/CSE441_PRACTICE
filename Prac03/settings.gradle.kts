@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Prac03"
+rootProject.name = "Recycler View List Students"
 include(":app")
  
